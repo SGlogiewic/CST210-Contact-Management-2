@@ -1,0 +1,10 @@
+﻿  Address.cpp
+  Contact.cpp
+  ContactManagement.cpp
+C:\Users\glogi\source\repos\ContactManagement\ContactManagement\ContactManagement.cpp(21,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\glogi\source\repos\ContactManagement\ContactManagement\ContactManagement.cpp(50,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\glogi\source\repos\ContactManagement\ContactManagement\ContactManagement.cpp(131,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\glogi\source\repos\ContactManagement\ContactManagement\ContactManagement.cpp(146,21): warning C4018: '<': signed/unsigned mismatch
+  Name.cpp
+  Generating Code...
+  ContactManagement.vcxproj -> C:\Users\glogi\source\repos\ContactManagement\Debug\ContactManagement.exe
